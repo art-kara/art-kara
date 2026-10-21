@@ -1,0 +1,29 @@
+{
+  "name": "Artur Karapetian",
+  "handle": "art-kara",
+  "headline": "founder · full-stack engineer · product builder",
+  "intro": [
+    "I turn hard problems into products people use.",
+    "From the first idea to the system behind it."
+  ],
+  "work": [
+    ["building", "Runtools AI · Sendblue"],
+    ["previous", "LoadGuard · QuoteCraft"],
+    ["focus", "AI agents · products · infrastructure"],
+    ["roots", "Math · machine learning · game theory"]
+  ],
+  "stack": ["TypeScript", "Python", "React", "Node.js", "SQL"],
+  "principles": ["Think clearly", "Build end to end", "Keep shipping"],
+  "milestones": [
+    ["10+", "YEARS BUILDING"],
+    ["2018", "AI / ML SINCE"],
+    ["TOP 10", "YC HACKATHON · COSMO"]
+  ],
+  "website": "https://www.artkara.co/",
+  "links": [
+    ["Website", "https://www.artkara.co/"],
+    ["Runtools", "https://runtools.ai/"],
+    ["X", "https://x.com/artkara_"],
+    ["LinkedIn", "https://www.linkedin.com/in/arthur-kara-a818b7219/"]
+  ]
+}
