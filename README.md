@@ -1,7 +1,7 @@
 <img align="left" width="210" height="210" src="https://raw.githubusercontent.com/art-kara/art-kara/main/assets/builder-dark.gif?v=2#gh-dark-mode-only" alt="A little 3D robot in sunglasses, turning and waving.">
 <img align="left" width="210" height="210" src="https://raw.githubusercontent.com/art-kara/art-kara/main/assets/builder-light.gif?v=2#gh-light-mode-only" alt="A little 3D robot in sunglasses, turning and waving.">
 
-### Hey, I'm Artur.
+### Arthur Kara
 
 Founder, full-stack engineer, and AI builder.
 
