@@ -1,22 +1,22 @@
 {
   "name": "Artur Karapetian",
-  "handle": "art-kara",
-  "bio": "I build software, AI systems, and the infrastructure behind them. I started coding at 13; math and game theory pulled me into AI. I still like following a question all the way to something I can ship.",
-  "now": [
-    {
-      "name": "Runtools",
-      "url": "https://runtools.ai/",
-      "description": "custom software, AI systems, and infrastructure for agents."
-    },
-    {
-      "name": "Sendblue",
-      "url": "https://sendblue.com/",
-      "description": "working on messaging infrastructure."
-    }
+  "short_name": "Artur",
+  "intro": "Founder, full-stack engineer, and AI builder.",
+  "current": "Building [Runtools](https://runtools.ai/). Working on messaging infrastructure at [Sendblue](https://sendblue.com/).",
+  "highlights": [
+    "**Top 10** at a Y Combinator hackathon with **Cosmo** (2025).",
+    "**AI / ML since 2018**, including game theory AI research at **Arizona State**.",
+    "**10+ years building software** — started coding at 13."
   ],
-  "before": "Co-founded [LoadGuard](https://loadguard.ai/), built insurance software with [QuoteCraft](https://quotecraft.org/), and worked on game theory AI research at Arizona State. Our project Cosmo placed **Top 10 at a Y Combinator hackathon** and became the starting point for Runtools.",
+  "projects": [
+    ["Runtools", "https://runtools.ai/", "Custom software, AI systems, and infrastructure for agents."],
+    ["Sendblue", "https://sendblue.com/", "Messaging infrastructure."],
+    ["LoadGuard", "https://loadguard.ai/", "Co-founder. Carrier vetting, onboarding, and logistics software."],
+    ["QuoteCraft", "https://quotecraft.org/", "Insurance software for agencies."]
+  ],
+  "stack": ["TypeScript", "Python", "React", "Node.js", "SQL"],
   "links": [
-    ["More about me ↗", "https://www.artkara.co/"],
+    ["Website", "https://www.artkara.co/"],
     ["X", "https://x.com/artkara_"],
     ["LinkedIn", "https://www.linkedin.com/in/arthur-kara-a818b7219/"]
   ]

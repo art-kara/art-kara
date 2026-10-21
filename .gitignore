@@ -1,3 +1,4 @@
 preview-*.png
 .DS_Store
 __pycache__/
+assets/*-poster.png
