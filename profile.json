@@ -1,28 +1,22 @@
 {
   "name": "Artur Karapetian",
   "handle": "art-kara",
-  "headline": "founder · full-stack engineer · product builder",
-  "intro": [
-    "I turn hard problems into products people use.",
-    "From the first idea to the system behind it."
+  "bio": "I build software, AI systems, and the infrastructure behind them. I started coding at 13; math and game theory pulled me into AI. I still like following a question all the way to something I can ship.",
+  "now": [
+    {
+      "name": "Runtools",
+      "url": "https://runtools.ai/",
+      "description": "custom software, AI systems, and infrastructure for agents."
+    },
+    {
+      "name": "Sendblue",
+      "url": "https://sendblue.com/",
+      "description": "working on messaging infrastructure."
+    }
   ],
-  "work": [
-    ["building", "Runtools AI · Sendblue"],
-    ["previous", "LoadGuard · QuoteCraft"],
-    ["focus", "AI agents · products · infrastructure"],
-    ["roots", "Math · machine learning · game theory"]
-  ],
-  "stack": ["TypeScript", "Python", "React", "Node.js", "SQL"],
-  "principles": ["Think clearly", "Build end to end", "Keep shipping"],
-  "milestones": [
-    ["10+", "YEARS BUILDING"],
-    ["2018", "AI / ML SINCE"],
-    ["TOP 10", "YC HACKATHON · COSMO"]
-  ],
-  "website": "https://www.artkara.co/",
+  "before": "Co-founded [LoadGuard](https://loadguard.ai/), built insurance software with [QuoteCraft](https://quotecraft.org/), and worked on game theory AI research at Arizona State. Our project Cosmo placed **Top 10 at a Y Combinator hackathon** and became the starting point for Runtools.",
   "links": [
-    ["Website", "https://www.artkara.co/"],
-    ["Runtools", "https://runtools.ai/"],
+    ["More about me ↗", "https://www.artkara.co/"],
     ["X", "https://x.com/artkara_"],
     ["LinkedIn", "https://www.linkedin.com/in/arthur-kara-a818b7219/"]
   ]
